@@ -35,7 +35,8 @@ baseurl: /ncc-guide/      # place folder name if the site is served in a subfold
 # github_username:  jekyll
 
 # Build settings
-theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+# theme: "just-the-docs"
   # jekyll-theme-cayman
   # minima
 plugins:
