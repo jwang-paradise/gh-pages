@@ -4,4 +4,10 @@
 
 layout: home
 ---
-# This is the home page.
+# This is the index page.
+
+```plain text
+Looking good.
+```
+
+*Woo!*
